@@ -18,12 +18,10 @@ public class UniqueElement {
 			} else {
 				h.add(i); 
 			}
-
 		}
 		for (int x : h) {
 			System.out.println(x);
 		}
-
 	}
 
 	public static void main(String[] args) {
@@ -35,7 +33,5 @@ public class UniqueElement {
 			arr[i] = scan.nextInt();
 		}
 		UElement(arr);
-
 	}
-
 }
