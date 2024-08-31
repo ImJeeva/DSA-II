@@ -2,8 +2,7 @@ package BinarySearch;
 
 import java.util.Scanner;
 
-
-
+// Given an Sorted array find the index of K. 
 public class IndexOfK {
 	
 	static int inedxOfK(int [] arr, int k) {
