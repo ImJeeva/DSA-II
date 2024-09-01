@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 // Question: Find the lonely integer in an array that value not have a pair.
 
-
 public class UniqueElement {
 	static void UElement(int[] arr) {
 
